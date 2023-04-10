@@ -1,0 +1,180 @@
+{
+    "jobs_category": [
+        {
+            "id":"1",
+            "image":"https://i.postimg.cc/13VS2KVc/budget.png",
+            "category": "Business Administration",
+            "jobsAvailable": 625
+        },
+        {
+            "id":"2",
+            "image":"https://i.postimg.cc/vBhwfqCM/web-design.png",
+            "category": "Visual Arts",
+            "jobsAvailable": 250
+        },
+        {
+            "id":"3",
+            "image":"https://i.postimg.cc/fbxNTTKV/online-advertising.png",
+            "category": "Advertising",
+            "jobsAvailable": 250
+        },
+        {
+            "id":"4",
+            "image":"https://i.postimg.cc/3RYHy5Sn/engineering.png",
+            "category": "Engineering Disciplines",
+            "jobsAvailable": 300
+        }
+    ],
+    "jobs": [
+        {
+            "id":"1",
+            "name": "Amazon",
+            "title": "Senior Software Development Engineer",
+            "image": "https://w7.pngwing.com/pngs/732/34/png-transparent-logo-amazon-com-brand-flipkart-others-text-orange-logo.png",
+            "schedule": {
+                "on_site": "Onsite", 
+                "full_time":"Full Time"
+            },
+            "location": "Seattle, USA",
+            "salary": "150K - 200K",
+            "phone": "+1 (888) 280-4331",
+            "email": "info@amazon.com",
+            "address": "410 Terry Ave N, Seattle, WA 98109, United States",
+            "job_details": [
+                {
+                    "job_description": "As a Senior Software Development Engineer, you will be responsible for designing, developing, and maintaining large-scale distributed systems. You will work with a talented team of engineers to drive innovation and build high-quality software that scales."
+                },
+                {
+                    "job_responsibility": "As an Amazon employee, your job responsibilities may include managing inventory, fulfilling customer orders, and contributing to the overall success of the company. You may also be responsible for maintaining a safe and efficient work environment and meeting performance targets."
+                },
+                {
+                    "educational_requirements": "A Bachelor's or Master's degree in Computer Science, Software Engineering, or a related field is required. Relevant work experience and industry certifications may also be considered in lieu of a degree. Strong coding skills and familiarity with software development tools and processes are essential qualifications."
+                },
+                {
+                    "experiences": "2-3 Years in this field."
+                }
+            ]
+        },
+        {
+            "id":"2",
+            "name": "Microsoft",
+            "title": "Senior Data Scientist",
+            "image": "https://w7.pngwing.com/pngs/124/600/png-transparent-microsoft-logo-microsoft.png",
+            "schedule":{
+                "remote": "Remote", 
+                "full_time":"Full Time"
+            },
+            "location": "London, UK",
+            "salary": "120K - 160K",
+            "phone": "+44 (0) 344 800 2400",
+            "email": "info@microsoft.com",
+            "address": "Microsoft Campus, Thames Valley Park, Reading RG6 1WG, United Kingdom",
+            "job_details": [
+                {
+                    "job_description": "As a Senior Data Scientist, you will be responsible for leading data-driven projects from start to finish. You will work closely with stakeholders to define business problems, develop analytical solutions, and communicate insights to drive action."
+                },
+                {
+                    "job_responsibility": "As a Microsoft employee, your responsibilities may include developing and delivering software products, analyzing user needs, and collaborating with team members to ensure project success. You'll need to stay up-to-date with industry trends and meet project deadlines while delivering high-quality work"
+                },
+                {
+                    "educational_requirements": "A Bachelor's or Master's degree in a relevant field such as Computer Science, Electrical Engineering, or Mathematics is typically required for technical roles. Non-technical roles may require a degree in business, communications, or a related field. Relevant work experience and industry certifications may also be considered in lieu of a degree."
+                },
+                {
+                    "experiences": "3-5 Years in this field."
+                }
+            ]
+        },
+        {
+            "id":"3",
+            "name": "Apple",
+            "title": "Senior iOS Developer",
+            "image": "https://i.postimg.cc/3xR3Xzdb/2365385-middle.png",
+            "schedule":{
+                "on_site": "Onsite", 
+                "full_time":"Full Time"
+            },
+            "location": "Sydney, Australia",
+            "salary": "120K - 150K",
+            "phone": "+61 2 8987 8800",
+            "email": "info@apple.com",
+            "address": "Level 3, 20 Martin Pl, Sydney NSW 2000, Australia",
+            "job_details": [
+                {
+                    "job_description": "As a Senior iOS Developer, you will be responsible for designing and developing new features for Apple's iOS operating system. You will work closely with cross-functional teams to deliver high-quality software that delights customers."
+                },
+                {
+                    "job_responsibility": "Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members."
+                },
+                {
+                    "educational_requirements": "A Bachelor's or Master's degree in a relevant field such as Computer Science, Electrical Engineering, or Mathematics is typically required for technical roles at Apple. Non-technical roles may require a degree in business, marketing, or a related field. Relevant work experience and industry certifications may also be considered in lieu of a degree. Strong technical skills, familiarity with software development tools and processes, and the ability to work collaboratively on a team are essential qualifications for most technical roles at Apple."
+                },
+                {
+                    "experiences": "4-6 Years in this field."
+                }
+            ]
+        },
+        {
+            "id":"4",
+            "name": "SpaceX",
+            "title": "Senior Software Engineer",
+            "image": "https://i.postimg.cc/zGc80phD/5842a770a6515b1e0ad75afe.png",
+            "schedule": {
+                "on_site": "Onsite", 
+                "full_time":"Full Time"
+            },
+            "location": "Hawthorne, USA",
+            "salary": "140K - 180K",
+            "phone": "+1 (310) 363-6000",
+            "email": "info@spacex.com",
+            "address": "Rocket Road, Hawthorne, CA 90250, United States",
+            "job_details": {
+                "job_description": "As a Senior Software Engineer, you will be responsible for developing and maintaining software systems for SpaceX's rockets and spacecraft. You will work with a talented team of engineers to design, develop, and deploy software that enables SpaceX's missions.",
+                "job_responsibility": "Collaborating with cross-functional teams: Senior Software Engineers often work closely with other teams, including product management, engineering, and quality assurance, to ensure that software systems are aligned with business and technical requirements. You will need to be able to effectively communicate technical concepts and gather feedback from other team members.",
+                "educational_requirements": "Bachelor's or Master's degree in Aerospace, Mechanical, Electrical Engineering, Computer Science, or related fields, and relevant work experience or industry certifications may be considered in lieu of a degree.",
+                "experiences": "At least 5 years of experience in software engineering, including experience with object-oriented programming and developing large-scale software systems."
+            }
+        },
+        {
+            "id":"5",
+            "name": "Facebook",
+            "title": "Senior Product Manager",
+            "image": "https://i.postimg.cc/1zVPT60G/logo-facebookpng-32251.png",
+            "schedule": {
+                "remote": "Remote", 
+                "full_time":"Full Time"
+            },
+            "location": "London, UK",
+            "salary": "130K - 160K",
+            "phone": "+44 20 3043 2000",
+            "email": "info@facebook.com",
+            "address": "10 Brock St, Kings Cross, London NW1 3FG, United Kingdom",
+            "job_details": {
+                "job_description": "As a Senior Product Manager, you will be responsible for driving the strategy and development of Facebook's products. You will work with cross-functional teams to define product requirements, develop go-to-market plans, and drive product adoption.",
+                "job_responsibility": "Collaborating with cross-functional teams: Senior Product Managers often work closely with other teams, including engineering, design, data analytics, and marketing, to ensure that product development is aligned with business goals and user needs. You will need to be able to effectively communicate your product vision and gather feedback from other team members.",
+                "educational_requirements": "To work at Facebook, a degree in computer science, math, physics, engineering, statistics, or a related technical field is required. Additionally, having experience in the field and a strong set of skills is highly valued over experience alone. ",
+                "experiences": "At least 7 years of experience in product management, including experience with agile development methodologies and leading cross-functional teams."
+            }
+        },
+        {
+            "id":"6",
+            "name": "IBM",
+            "title": "Senior Cybersecurity Analyst",
+            "image": "https://banner2.cleanpng.com/20171220/kke/ibm-logo-png-5a3a21ee2d6565.5546661515137592141861519.jpg",
+            "schedule": {
+                "on_site": "Onsite", 
+                "full_time":"Full Time"
+            },
+            "location": "Tokyo, Japan",
+            "salary": "110K - 140K",
+            "phone": "+81 3-3808-3231",
+            "email": "info@ibm.com",
+            "address": "19-21 Nihonbashi Hakozaki-cho, Chuo-ku, Tokyo 103-8510, Japan",
+            "job_details": {
+                "job_description": "As a Senior Cybersecurity Analyst, you will be responsible for protecting IBM's systems and data from cyber threats. You will work with a global team of analysts to identify vulnerabilities, assess risks, and develop strategies to mitigate them.",
+                "job_responsibility": "Performing security assessments: Senior Cybersecurity Analysts must be able to identify potential security vulnerabilities and assess the effectiveness of existing security measures. You will need to have a strong understanding of industry best practices, security standards, and compliance requirements.",
+                "educational_requirements": "Bachelor's/Master's degree in Cybersecurity, Computer Science, Information Technology or related fields; Relevant industry certifications (CISSP, CISM, or CISA) may be required; Several years of work experience in cybersecurity, information security or related fields, with SOC experience; Strong technical skills and ability to work collaboratively are essential.",
+                "experiences": "At least 5 years of experience in cybersecurity, including experience with security tools and technologies, incident response, and risk management."
+            }
+        }
+    ]
+}
